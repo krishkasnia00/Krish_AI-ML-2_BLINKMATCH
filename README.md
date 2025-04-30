@@ -10,7 +10,7 @@ BlinkMatch is an AI-powered facial recognition system that enhances security thr
 Built using Python, OpenCV, and Streamlit, the system ensures that only real, live individuals can unlock access, effectively preventing spoofing via images or videos.
 The system can be used in secure access control, healthcare identity verification, and retail automation.
 
---- 📺 Link to Video Explanation 📹 [https://github.com/ChiragSharma3132/Chirag_Sharma_AI-ML-2_BlinkMatch/blob/main/BlinkMatch%20Project%20Video%20Presentation.mp4]
+--- 📺 Link to Video Explanation 📹 [https://github.com/krishkasnia00/Krish_AI-ML-2_BLINKMATCH/blob/main/BlinkMatch%20Project%20Video%20Presentation.mp4]
 
 ⚙️ Technologies Used
 
